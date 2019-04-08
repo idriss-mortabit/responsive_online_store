@@ -1,4 +1,4 @@
-# Here is the live demo <a href="https://turing-assessement.herokuapp.com" style="font-size: 40px">CLICK TO SEE DEMO</a>
+# Here is the live demo <a href="https://turing-assessment.herokuapp.com" style="font-size: 40px">CLICK TO SEE DEMO</a>
 
 ![alt-text](https://github.com/idriss-mortabit/responsive_online_store/blob/master/Screenshot%20from%202019-03-28%2016-41-47.png)
 ![alt-text](https://github.com/idriss-mortabit/responsive_online_store/blob/master/Screenshot%20from%202019-03-28%2016-43-38.png)
